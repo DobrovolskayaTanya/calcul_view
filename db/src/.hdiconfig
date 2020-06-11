@@ -67,6 +67,9 @@
 		"hdbview": {
 			"plugin_name": "com.sap.hana.di.view"
 		},
+		 "hdbfulltextindex": {
+            "plugin_name": "com.sap.hana.di.fulltextindex"
+        },
 		"hdbstatistics": {
 			"plugin_name": "com.sap.hana.di.statistics"
 		},
